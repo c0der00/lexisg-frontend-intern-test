@@ -15,8 +15,11 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## Setup and Running Instructions
 
-### 1. Clone the Repository
 
 ```bash
 git clone <your-repository-url>
 cd lexisg-frontend-intern-test
+
+npm install
+
+npm run dev
