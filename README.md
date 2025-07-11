@@ -17,7 +17,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 ```bash
-git clone [<your-repository-url>](https://github.com/c0der00/lexisg-frontend-intern-test.git)
+git clone https://github.com/c0der00/lexisg-frontend-intern-test.git
 cd lexisg-frontend-intern-test
 
 npm install
